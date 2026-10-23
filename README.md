@@ -38,4 +38,7 @@ Full Stack developer in training based in Rancagua, Chile. Final-year Computer S
 Engineering student at INACAP, working with Django and React. Currently looking for an
 IT internship.
 
+Certifications: AWS Academy Cloud Foundations, Cisco Cybersecurity Essentials, and
+INACAP certificates in Cloud Architecture and Full Stack Development.
+
 </details>
