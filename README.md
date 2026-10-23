@@ -30,7 +30,7 @@
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/luciano-palma-toledo-3200a9374) · [Email](mailto:luciano.palmat@gmail.com) · [GitHub](https://github.com/Lucianop5)
+[LinkedIn](https://www.linkedin.com/in/luciano-palma-toledo-3200a9374) · [GitHub](https://github.com/Lucianop5)
 
 <details>
 <summary>English</summary>
