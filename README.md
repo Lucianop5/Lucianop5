@@ -12,20 +12,25 @@
 
 ## Certificaciones
 
+**Cloud**
+
 - **AWS Academy Cloud Foundations** — Amazon Web Services
-- **Ciberseguridad Esencial** — Cisco Networking Academy
 - **Arquitectura Cloud** — INACAP, 2026 · 198 h
+
+**Seguridad**
+
+- **Ciberseguridad Esencial** — Cisco Networking Academy
+
+**Desarrollo**
+
 - **Desarrollador Full Stack** — INACAP, 2026 · 162 h
+- **Desarrollo de Aplicaciones Básicas** — INACAP, 2026 · 162 h
+- **Diseño Ágil de Sistemas** — INACAP, 2026 · 126 h
 
-<details>
-<summary>Otras certificaciones INACAP (2026)</summary>
+**Datos y soporte**
 
-- Desarrollo de Aplicaciones Básicas · 162 h
-- Diseño y Gestión de Bases de Datos · 126 h
-- Diseño Ágil de Sistemas · 126 h
-- Soporte Computacional · 126 h
-
-</details>
+- **Diseño y Gestión de Bases de Datos** — INACAP, 2026 · 126 h
+- **Soporte Computacional** — INACAP, 2026 · 126 h
 
 ## Contacto
 
@@ -38,7 +43,10 @@ Full Stack developer in training based in Rancagua, Chile. Final-year Computer S
 Engineering student at INACAP, working with Django and React. Currently looking for an
 IT internship.
 
-Certifications: AWS Academy Cloud Foundations, Cisco Cybersecurity Essentials, and
-INACAP certificates in Cloud Architecture and Full Stack Development.
+Certifications:
+
+- **Cloud** — AWS Academy Cloud Foundations; INACAP Cloud Architecture
+- **Security** — Cisco Cybersecurity Essentials
+- **Development** — INACAP Full Stack Development
 
 </details>
