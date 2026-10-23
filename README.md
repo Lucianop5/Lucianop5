@@ -8,7 +8,7 @@
 
 <img src="https://skillicons.dev/icons?i=py,django,js,react,nextjs,html,css,tailwind,postgres,mysql,git,github,aws&amp;perline=13" height="42" alt="Stack" />
 
-<sub>Django REST Framework · shadcn/ui · Power BI · Excel · Cisco</sub>
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white) ![shadcn](https://img.shields.io/badge/shadcn-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ## Certificaciones
 
